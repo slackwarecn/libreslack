@@ -1,0 +1,2 @@
+# libreslack
+Deblob Slackware
