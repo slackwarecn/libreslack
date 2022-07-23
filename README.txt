@@ -1,0 +1,1 @@
+Please check out the master branch to see a list of non-free software. Unless you know exactly what you're doing, don't follow this project's list to remove nonfree software, as doing so will break your operating system (Slackware).
